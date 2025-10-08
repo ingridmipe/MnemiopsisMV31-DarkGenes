@@ -1,0 +1,85 @@
+# Data files
+data/*
+!data/README.md
+!data/*.md
+
+# Results and outputs
+results/*
+!results/README.md
+!results/*.md
+
+# Common bioinformatics file formats
+*.fasta
+*.fastq
+*.fastq.gz
+*.fa
+*.fq
+*.fq.gz
+*.bam
+*.sam
+*.vcf
+*.vcf.gz
+*.bcf
+*.bed
+*.gtf
+*.gff
+*.gff3
+*.wig
+*.bigwig
+*.bw
+
+# Large files
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+*.gz
+*.bz2
+*.xz
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# R
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+*.Rproj
+.Rproj.user/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
