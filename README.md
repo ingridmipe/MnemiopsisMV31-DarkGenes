@@ -1,4 +1,4 @@
-# Ctenophore-DarkGenes
+# Mneniopsis leidyi MV31 - scRNA-seq | DarkGenes
 This repo contains the code for the analyses of Mnemiopsis leidyi "dark genes".
 
 ## Project Structure
