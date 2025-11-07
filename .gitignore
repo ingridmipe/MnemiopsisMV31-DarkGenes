@@ -9,7 +9,6 @@ results/*
 !results/*.md
 
 # Common bioinformatics file formats
-*.fasta
 *.fastq
 *.fastq.gz
 *.fa
@@ -43,6 +42,9 @@ __pycache__/
 *$py.class
 *.so
 .Python
+*.pyc
+.env
+.venv/
 env/
 venv/
 ENV/
@@ -72,6 +74,7 @@ wheels/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+.ipynb_checkpoints/*
 
 # IDEs
 .vscode/
