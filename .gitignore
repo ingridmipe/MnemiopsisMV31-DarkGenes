@@ -1,10 +1,8 @@
 # Data files
-data/*
 !data/README.md
 !data/*.md
 
 # Results and outputs
-results/*
 !results/README.md
 !results/*.md
 
