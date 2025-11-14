@@ -1,6 +1,10 @@
 # results/
 
-This directory contains analysis outputs and results.
+This directory contains analysis outputs and results. The results are divided according the different datasets.
+
+Reminder of the datasets and their subsets:
+![Sunburst de GO terms](figures/Phagocyte_vs_AllCells_venn_diagrams.png)
+
 
 ## Contents
 - Figures and plots
