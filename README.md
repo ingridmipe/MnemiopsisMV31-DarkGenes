@@ -7,6 +7,7 @@ This repo contains the code for the analyses of Mnemiopsis leidyi "dark genes".
 Ctenophore-DarkGenes/
 ├── bin/         # Code and scripts for analysis
 ├── data/        # Input data files
+├── figures/     # At this point, general draft figures. Sunbursts are included in their corresponding results/ folder
 ├── results/     # Analysis outputs and results
 ├── LICENSE      # MIT License
 └── README.md    # This file
