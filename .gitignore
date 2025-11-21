@@ -90,3 +90,4 @@ wheels/
 *.npz
 *.npy
 *.bundle
+*.h5
