@@ -89,3 +89,4 @@ wheels/
 *.hdf5
 *.npz
 *.npy
+*.bundle
